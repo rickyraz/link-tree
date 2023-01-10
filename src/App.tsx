@@ -8,7 +8,7 @@ import diamond from "./assets/diamond.svg";
 import shop from "./assets/shop.svg";
 import tokped from "./assets/tokped.png";
 import shopee from "./assets/shopee.png";
-import wa from "./assets/wa.png";
+import wa from "./assets/wa.webp";
 
 const App: Component = () => {
   return (
