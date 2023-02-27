@@ -33,7 +33,7 @@ const App: Component = () => {
           </a>
         </li>
         <li>
-          <a href="https://tokopedia.link/0Te9EFGDrwb">
+          <a href="https://www.tokopedia.com/wirajaya-quran">
             <button class="flex w-full items-center justify-center rounded-lg border-[3px] border-green-light py-5 px-4 font-semibold text-green-light hover:bg-green-light hover:text-white">
               <img src={tokped} alt="tokopedia" class="h-7" />
               <span class="ml-4">Tokopedia</span>
