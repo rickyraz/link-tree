@@ -41,7 +41,7 @@ const App: Component = () => {
           </a>
         </li>
         <li>
-          <a href="https://shp.ee/nya8rjw">
+          <a href="https://shopee.co.id/ggwirajaya">
             <button class="flex w-full items-center justify-center rounded-lg border-[3px] border-green-light py-5 px-4 font-semibold text-green-light hover:bg-green-light hover:text-white">
               <img src={shopee} alt="Shopee" class="h-6" />
               <span class="ml-4">Shopee</span>
